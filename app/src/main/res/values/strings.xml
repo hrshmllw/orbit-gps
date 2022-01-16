@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPS (Software Engineering)</string>
+    <string name="access_token">sk.eyJ1IjoiaGFyc2htYWxsb3ciLCJhIjoiY2t5aDNnaWtlMHB6djJwcDBrZjd6YnA4YiJ9.y-TJIHhl9-tfv5g9S9Pi5A</string>
+    <string name="start_navigation">Start Navigation</string>
+    <string name="user_location_permission_explanation">App needs location permissions granted.</string>
+    <string name="user_location_permission_not_granted">Location permissions not granted.</string>
+</resources>
